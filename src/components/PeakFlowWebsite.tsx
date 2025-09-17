@@ -152,17 +152,17 @@ const PeakFlowWebsite = () => {
                         <div className="p-6">
                             <Mail className="w-8 h-8 text-purple-400 mx-auto mb-4" />
                             <h3 className="text-lg font-semibold text-white mb-2">Email</h3>
-                            <p className="text-gray-300">contact@peakflow.ai</p>
+                            <p className="text-gray-300">info@peakflow.ro</p>
                         </div>
                         <div className="p-6">
                             <Phone className="w-8 h-8 text-cyan-400 mx-auto mb-4" />
                             <h3 className="text-lg font-semibold text-white mb-2">Phone</h3>
-                            <p className="text-gray-300">+1 (555) 123-FLOW</p>
+                            <p className="text-gray-300">+40757517949</p>
                         </div>
                         <div className="p-6">
                             <MapPin className="w-8 h-8 text-green-400 mx-auto mb-4" />
                             <h3 className="text-lg font-semibold text-white mb-2">Location</h3>
-                            <p className="text-gray-300">San Francisco, CA</p>
+                            <p className="text-gray-300">Bucharest, Romania</p>
                         </div>
                     </div>
                 </div>
