@@ -1,5 +1,2 @@
-import PeakFlowWebsite from '../components/PeakFlowWebsite';
-
-export default function Home() {
-  return <PeakFlowWebsite />;
-}
+import HomePage from "@/components/HomePage";
+export default function Page() { return <HomePage />; }
